@@ -1,4 +1,4 @@
-# Gestion Stagaire OFPP ,
+# Gestion Stagaire OFPPT 
 Gestion Stagiaire OFPPT ,développé par Marouane Souah
 
 ################################
