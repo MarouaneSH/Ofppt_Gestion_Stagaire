@@ -1,5 +1,6 @@
 # Gestion Stagaire OFPP ,
 Gestion Stagiaire OFPPT ,développé par Marouane Souah
+
 ################################
 
 1 - Avant d'utiliser cette application vous devez premièrement telecharger les fichier des base de donnes que vous le trouverez dans le dossier "BASE DONNES" et le mettre dans le chemins suivant:
@@ -11,7 +12,7 @@ Gestion Stagiaire OFPPT ,développé par Marouane Souah
 
 ![alt text](ApplicationImages/1.PNG "Gestion stagaire OFPPT")
 
-![alt text](ApplicationImages/2.PNG "Gestion stagaire OFPPT")
+![alt text](ApplicationImages/2.png "Gestion stagaire OFPPT")
 
 ![alt text](ApplicationImages/3.PNG "Gestion stagaire OFPPT")
 
